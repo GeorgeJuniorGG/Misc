@@ -1,1 +1,3 @@
-Testing project by GeorgeJuniorGG
+# Testing project by GeorgeJuniorGG
+
++ Includes miscellaneous files
